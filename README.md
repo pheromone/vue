@@ -1,6 +1,8 @@
 # VueLearnNotes
 Vue学习笔记
 
+- [视频](https://www.bilibili.com/video/BV15741177Eh?p=1)
+
 - [01-ES6补充](./01-ES6补充/01-ES6补充.md)
 - [02-HelloVue](./02-HelloVue/02-HelloVue.md )
 - [03-插值操作](./03-插值操作/03-插值操作.md )
